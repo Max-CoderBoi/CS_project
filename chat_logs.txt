@@ -1,0 +1,14 @@
+[2026-04-29T18:08:19.017Z] User logged in: akash
+[2026-04-29T18:08:41.485Z] User logged in: aditya
+[2026-04-29T18:09:48.387Z] User disconnected: aditya
+[2026-04-29T18:09:48.465Z] User disconnected: akash
+[2026-04-29T18:12:31.613Z] User logged in: alice
+[2026-04-29T18:12:50.947Z] User logged in: bob
+[2026-04-29T18:12:53.075Z] Encrypted AES Key sent from bob to alice | Payload: hd1oq3CPuUPkhYYnnBRXxbTxXLoeod...
+[2026-04-29T18:13:19.025Z] Message from alice to bob | IV: 7aBi+dJ9iX8PdU4l | Ciphertext: SBzV68db0kxZ/dgE+jBdnInmYjCIwr...
+[2026-04-29T18:13:32.439Z] Message from bob to alice | IV: ++czIjP3KzrNR6IW | Ciphertext: SoNLwjF9FyuzcSajsOgYCgLsgQ5t...
+[2026-04-29T18:14:43.355Z] Message from alice to bob | IV: wFP4payJm+ZhOHBX | Ciphertext: DI3Spuai6j861y8WqBt/WeFak7C2e3...
+[2026-04-29T18:19:06.820Z] User disconnected: alice
+[2026-04-29T18:19:29.176Z] User logged in: alice
+[2026-04-29T18:22:23.459Z] User disconnected: alice
+[2026-04-29T18:22:23.461Z] User disconnected: bob
